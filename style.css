@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: lightpink;
+}
+
+h1 {
+    font-size: 40px;
+    color: navy;
+}
+
+#date{
+    font-size: 28px;
+    color: maroon;
+    font-family: inherit ;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    height: 250px;
+    width: 350px;
+}
+
+.section-style {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: white;
+}
